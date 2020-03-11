@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Employee>
+        <Details>
+            <FirstName>Mohammad</FirstName>
+            <LastName>Edres</LastName>
+            <Age>26</Age>
+        </Details>
+        <Details>
+            <FirstName>Safiullah</FirstName>
+            <LastName>Mohammadi</LastName>
+            <Age>24</Age>
+        </Details>
+        <Details>
+            <FirstName>Haroon</FirstName>
+            <LastName>Mahboob</LastName>
+            <Age>30</Age>
+        </Details>
+    </Employee>
+
+</PreferenceScreen>
